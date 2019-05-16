@@ -1,0 +1,22 @@
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.deps.json
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.runtimeconfig.json
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.runtimeconfig.dev.json
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.dll
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.pdb
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.csprojAssemblyReference.cache
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.csproj.CoreCompileInputs.cache
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.AssemblyInfoInputs.cache
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.AssemblyInfo.cs
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.dll
+c:\users\toshiba\source\repos\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.pdb
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.deps.json
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.runtimeconfig.json
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.runtimeconfig.dev.json
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.dll
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\bin\Debug\netcoreapp2.0\KrediKartiProblemi1.pdb
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.csprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.dll
+C:\Users\Toshiba\Desktop\Yeni klasör\Proje2\KrediKartiProblemi1\KrediKartiProblemi1\obj\Debug\netcoreapp2.0\KrediKartiProblemi1.pdb
